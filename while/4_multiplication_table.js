@@ -6,3 +6,12 @@ As Ersa is learning now, she wants to explore more and more. Tell Ersa to genera
 
 
 /*programming hero*/
+
+let i = 5;
+
+let n = 1;
+
+while(n <= 10){
+    console.log(n + ' X ' + i + ' = ' + n * i);
+    n++;
+}
